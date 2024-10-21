@@ -30,7 +30,6 @@
   <!-- =======================================================
   * Template Name: Puan Az Zahra Adha Wahyudi
   * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-lonely/
-  * Updated: Aug 07 2024 with Bootstrap v5.3.3
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
